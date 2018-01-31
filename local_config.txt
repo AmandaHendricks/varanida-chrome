@@ -1,0 +1,5 @@
+manifest_scope="*://localhost:*/*"
+api_url="http://localhost:8080"
+front_desktop_url="http://localhost:3000"
+front_social_url="http://localhost:3000"
+front_library_url="http://localhost:3000"
