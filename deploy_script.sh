@@ -19,7 +19,7 @@ elif [ $browser == "c" ] || [ $browser == "chrome" ]; then
 else
   browser="chrome"
 fi
-destdir="varanida_${enviro}_${browser}"
+destdir="varanida_gen_${enviro}_${browser}"
 
 # copy template to destination
 cp -R extension-template/ $destdir
